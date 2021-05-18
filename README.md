@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=nlatham1999)
+
 <!--
 **nlatham1999/nlatham1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
